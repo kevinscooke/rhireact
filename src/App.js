@@ -27,8 +27,11 @@ class App extends Component {
       </div>
       <div className={"display"}>
           <div className={"leftSidebar"}>
-
+          //  I would like a couple of filterable items here, Category (Checkbox) & AWG (Checkbox) 
           </div>
+          <div className={"mainBar"}>
+          //Let's utilize the ResultCard (Image, part_number & Category to start)
+          <div>
       </div>
 
       </ReactiveBase>
